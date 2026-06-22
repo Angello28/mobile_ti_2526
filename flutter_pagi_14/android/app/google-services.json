@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "112265753690",
+    "project_id": "ti-pagi-14",
+    "storage_bucket": "ti-pagi-14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112265753690:android:ba5e435549ee2f9d835463",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sore_12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112265753690-c8ksq36d0o40dcipkd0pmbtlp95p01v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZXWLJuJgOYI68ROhaitnmEh3MhbphQsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112265753690-c8ksq36d0o40dcipkd0pmbtlp95p01v4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112265753690-eb22pbfcsabvv3b92qkhk1el9amrr57e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterSore12"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
